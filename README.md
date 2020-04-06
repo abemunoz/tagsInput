@@ -1,2 +1,0 @@
-# tagsInput
-Created with CodeSandbox
